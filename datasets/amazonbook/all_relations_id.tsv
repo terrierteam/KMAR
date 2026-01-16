@@ -1,0 +1,10 @@
+1	book.publisher
+2	book.binding
+3	book.author_editor
+4	book.works
+5	book.place_of_publication
+6	book.genre
+7	book_character.appears_in_book
+8	literary_series.works_in_this_series
+9	written_work.original_language
+10	author.works_written
